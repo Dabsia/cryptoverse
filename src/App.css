@@ -269,6 +269,10 @@ a:hover {
   background-color: var(--bgSecondary);
 }
 
+.theLink {
+  font-size: 7px
+}
+
 @media screen and (max-width:1000px) {
   .stats-container {
     flex-direction: column;
